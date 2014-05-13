@@ -1,0 +1,13 @@
+body {
+	background-color: #12487E;
+}
+
+.container {
+	background-color: white;
+}
+
+.navbar-default {
+	background-color: #12487E;
+	height: 121px;
+	border: 0px;
+}
