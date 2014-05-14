@@ -49,6 +49,8 @@ p {
 	height: 121px;
 	border: 0px;
 	border-radius: 0px;
+	position: relative;
+	z-index: 2;
 }
 .navbar-default .navbar-nav {
 }
@@ -72,7 +74,6 @@ p {
 }
 .navbar-collapse {
 	background-color: #12487E;
-	z-index: 9999;
 	margin-top: 40px;
 }
 
@@ -94,8 +95,21 @@ p {
 
 .carousel {
 	border-bottom: 4px solid #F9CF3C;
+	z-index: 1;
 }
 .carousel img {
 	width: 980px;
 	height: auto;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+	text-align: center;
+}
+footer a {
+	margin-left: 10px;
+	margin-right: 10px;
 }
