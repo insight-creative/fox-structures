@@ -1,13 +1,101 @@
 body {
-	background-color: #12487E;
+	background-color: #E7E7E7;
+}
+
+#wrap {
+	background-color: white;
+	border-radius: 3px;
+	border-top: 8px solid #F9CF3C;
+	margin-bottom: 40px;
 }
 
 .container {
-	background-color: white;
+	max-width: 980px;
 }
+
+/*
+ * Typography
+ */
+
+h1 {
+	color: #12487E;
+}
+h2 {
+	color: #12487E;
+}
+.lead {
+	font-size: 1.3em;
+}
+p {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/*
+ * Buttons
+ */
+
+.btn-primary {
+	background-color: #12487E;
+}
+
+
+/*
+ * Navbar
+ */
 
 .navbar-default {
 	background-color: #12487E;
 	height: 121px;
 	border: 0px;
+	border-radius: 0px;
+}
+.navbar-default .navbar-nav {
+}
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	font-size: 1.3em;
+	border-radius: 3px;
+}
+.navbar-default .navbar-nav > li > a:hover {
+	background-color: #F9CF3C;
+}
+.navbar-brand {
+	padding-top: 10px;
+}
+.navbar-toggle {
+	margin-top: 40px;
+	background-color: white;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #12487E;
+}
+.navbar-collapse {
+	background-color: #12487E;
+	z-index: 9999;
+	margin-top: 40px;
+}
+
+/*
+ * Sub-nav
+ */
+
+.sub-nav {
+	margin-top: 10px;
+}
+.sub-nav a {
+	width: 100%;
+	margin-top: 10px;
+}
+
+/*
+ * Carousel
+ */
+
+.carousel {
+	border-bottom: 4px solid #F9CF3C;
+}
+.carousel img {
+	width: 980px;
+	height: auto;
 }
