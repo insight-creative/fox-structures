@@ -2,3 +2,4 @@ name: Fox Structures
 markdown: redcarpet
 pygments: true
 baseurl: "/foxstructures"
+permalink: none

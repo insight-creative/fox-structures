@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="row">
+	<div class="col-md-12">
+		<img src="{{ site.baseurl }}/img/{{ page.image }}">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		{{ content }}
+	</div>
+	<div class="col-md-6">
+		<ul class="category-list">
+		{% assign cat = page.category %}
+		{% for post in site.categories[cat] %}
+			<li>
+				<a href="{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
+				<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+			</li>
+		{% endfor %}
+		</ul>
+	</div>
+</div>
+	
+			
+			

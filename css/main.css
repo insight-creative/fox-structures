@@ -1,3 +1,7 @@
+/*
+ * Global Styles
+ */
+
 body {
 	background-color: #E7E7E7;
 }
@@ -8,10 +12,14 @@ body {
 	border-top: 8px solid #F9CF3C;
 	margin-bottom: 40px;
 }
-
 .container {
 	max-width: 980px;
 }
+img {
+	max-width: 100%;
+	height: auto;
+}
+
 
 /*
  * Typography
@@ -22,6 +30,7 @@ h1 {
 }
 h2 {
 	color: #12487E;
+	font-size: 2em;
 }
 .lead {
 	font-size: 1.3em;
@@ -52,8 +61,6 @@ p {
 	position: relative;
 	z-index: 2;
 }
-.navbar-default .navbar-nav {
-}
 .navbar-default .navbar-nav > li > a {
 	color: white;
 	font-size: 1.3em;
@@ -61,6 +68,9 @@ p {
 }
 .navbar-default .navbar-nav > li > a:hover {
 	background-color: #F9CF3C;
+}
+.navbar-default .navbar-nav > li > a:focus {
+	color: white;
 }
 .navbar-brand {
 	padding-top: 10px;
@@ -76,6 +86,10 @@ p {
 	background-color: #12487E;
 	margin-top: 40px;
 }
+li.dropdown.open {
+	background-color: white;
+	border: ;
+}
 
 /*
  * Sub-nav
@@ -87,6 +101,8 @@ p {
 .sub-nav a {
 	width: 100%;
 	margin-top: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 /*
@@ -101,6 +117,23 @@ p {
 	width: 980px;
 	height: auto;
 }
+
+/*
+ * Category List
+ */
+
+.category-list {
+	margin-top: 20px;
+	list-style: none;
+	padding: 0px;
+}
+.category-list li {
+	margin-bottom: 20px;
+}
+.category-list li h3 {
+	margin-top: 10px;
+}
+
 
 /*
  * Footer
