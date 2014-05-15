@@ -19,8 +19,8 @@ layout: default
 		{% assign cat = page.category %}
 		{% for post in site.categories[cat] %}
 			<li>
-				<a href="{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
-				<a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
+				<a href="{{ site.baseurl }}{{ post.url }}"><h3>{{ post.title }}</h3></a>
 			</li>
 		{% endfor %}
 		</ul>

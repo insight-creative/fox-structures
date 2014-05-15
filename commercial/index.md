@@ -1,7 +1,7 @@
 ---
 layout: category
 category: commercial
-image: IMG_5276-960X640.jpg
+image: commercial.jpg
 title: Commercial
 ---
 
