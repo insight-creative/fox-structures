@@ -122,13 +122,29 @@ li.dropdown.open {
  */
 
 .sub-nav {
-	margin-top: 20px;
+	margin-top: 15px;
 }
-.sub-nav .btn {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	width: 100%;
-	margin-top: 10px;
+.sub-nav .nav-pills > li > a {
+	background-color: #12487E;
+	border: 2px solid white;
+	border-radius: 6px;
+	color: white;
+	font-size: 1.3em;
+	padding: 20px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+@media (min-width: 768px) {
+	.sub-nav {
+		margin-top: 0;
+	}
+	.sub-nav .nav-pills > li > a {
+		margin-right: 0;
+		margin-left: 0;
+	}
+}
+.sub-nav .nav-pills > li > a:hover {
+	background-color: #7E7E7E;
 }
 
 /*
