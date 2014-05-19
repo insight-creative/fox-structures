@@ -2,7 +2,7 @@
 layout: post
 title:  Schmidt Boat Docks and Lifts
 image: schmidt-boat-960x495.jpg
-category: commercial
+categories: commercial projects
 ---
 
 4,200 SF Retail/Product Assembly/Office building with mezzanine

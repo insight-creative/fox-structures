@@ -12,4 +12,4 @@ Many customers like the way Fox partners with them to create the ideal plan and 
 Today Fox Structures provides both design and construction services for all types of commercial, retail, agricultural, light manufacturing and residential buildings. In addition, mini warehouses, storage facilities and special use buildings have continued to fuel both our growth and success.
 
  
-It’s true. Our building success starts with you.
+**It’s true. Our building success starts with you.**
