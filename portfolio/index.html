@@ -1,17 +1,5 @@
 ---
-layout: page
+layout: category
+category: projects
 title: Portfolio
 ---
-
-<div class="row">
-	{% for post in site.categories.projects %}
-	<div class="col-sm-6">
-		<div class="thumbnail">
-			<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
-			<div class="caption">
-				<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-			</div>
-		</div>
-	</div>
-	{% endfor %}
-</div>

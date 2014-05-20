@@ -155,7 +155,7 @@ li.dropdown.open {
 .carousel {
 	border-top: 4px solid #F9CF3C;
 	border-bottom: 4px solid #F9CF3C;
-	max-width: 1500px;
+	max-width: 1650px;
 	margin: 0 auto;
 }
 .carousel img {
@@ -179,10 +179,21 @@ li.dropdown.open {
  * Thumbnails
  */
 
+.thumbnail-row {
+ -moz-column-width: 18em;
+ -webkit-column-width: 18em;
+ -moz-column-gap: 1em;
+ -webkit-column-gap: 1em; 
+ margin-right: 0px;
+ margin-left: 0px;
+}
 .thumbnail {
 	padding: 0;
 	border: 1px solid #E7E7E7;
 	border-radius: 3px;
+	-webkit-column-break-inside: avoid;
+	-moz-column-break-inside: avoid;
+	column-break-inside: avoid;
 }
 .thumbnail .caption {;
 	background-color: #E7E7E7;

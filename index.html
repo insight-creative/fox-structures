@@ -65,20 +65,20 @@ title: Design/Build Construction Services
 <div class="feature">
 	<div class="row">
 		<div class="col-md-12">
-			<h2>Sample Projects</h2>
+			<h2>Featured Projects</h2>
 		</div>
 	</div>
-	<div class="row">
-		{% for post in site.categories.projects limit: 3 %}
-			<div class="col-md-4 col-sm-6">
-				<div class="thumbnail">
-					<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
-					<div class="caption">
-						<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-					</div>
+	<div class="row thumbnail-row">
+		{% for post in site.categories.featured limit: 3 %}
+	    <div class="thumbnail">
+				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
+				<div class="caption">
+					<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
 				</div>
 			</div>
 		{% endfor %}
+	</div>
+	<div class="row">
 		<div class="feature-button">
 			<div class="col-md-12">
 				<a class="btn btn-primary" href="{{ site.baseurl }}/portfolio" role="button">View all projects</a>
