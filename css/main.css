@@ -252,6 +252,10 @@ footer a {
 	font-size: 1em;
 }
 
+/*
+ * Animations
+ */
+
 .fadeIn {
 	animation-name: fadeIn;
 	-webkit-animation-name: fadeIn;	
