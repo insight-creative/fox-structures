@@ -153,6 +153,7 @@ li.dropdown.open {
  */
 
 .carousel {
+	position: relative;
 	border-top: 4px solid #F9CF3C;
 	border-bottom: 4px solid #F9CF3C;
 	max-width: 1650px;
@@ -161,6 +162,27 @@ li.dropdown.open {
 .carousel img {
 	width: 100%;
 	height: auto;
+}
+.carousel .carousel-caption {
+	position: absolute;
+	z-index: 2000;
+	bottom: 0px;
+}
+.carousel-caption h1 {
+	color: white;
+}
+.carousel-caption a {
+	color: white;
+	font-size: 2em;
+	display: none;
+}
+.carousel-caption a:hover {
+	color: #E7E7E7;
+}
+@media (min-width: 768px) {
+	.carousel-caption a {
+		display: block;
+	}
 }
 
 /*
