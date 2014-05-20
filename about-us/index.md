@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Us
+title: About Fox Structures
 ---
 
-# Building Customer Satisfaction
+## Building Customer Satisfaction
 
 Fox Structures began in 1982 to serve the building needs of agricultural and commercial customers throughout Northeast Wisconsin. During the 1990s, our ag construction work expanded significantly as farm operations shifted to larger, more sophisticated structures. At the same time, our commercial work grew to embrace a wide variety of buildings and facilities as business growth boomed throughout the area.
 

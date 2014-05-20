@@ -175,14 +175,30 @@ li.dropdown.open {
 }
 
 /*
+ * Thumbnails
+ */
+
+.thumbnail {
+	padding: 0;
+	border: 1px solid #E7E7E7;
+	border-radius: 3px;
+}
+.thumbnail .caption {;
+	background-color: #E7E7E7;
+	text-align: center;
+}
+
+/*
  * Footer
  */
 
 footer {
 	text-align: center;
-	font-size: 1.1em;
 }
 footer a {
 	margin-left: 10px;
 	margin-right: 10px;
+}
+.copyright {
+	font-size: 1em;
 }
