@@ -245,6 +245,7 @@ li.dropdown.open {
 	-webkit-column-break-inside: avoid;
 	-moz-column-break-inside: avoid;
 	column-break-inside: avoid;
+	page-break-inside: avoid;
 }
 .thumbnail .caption {
 	background-color: #E7E7E7;
