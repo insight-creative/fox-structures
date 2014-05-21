@@ -53,6 +53,9 @@ p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 }
+a:hover {
+		color: #12487E;
+}
 
 /*
  * Buttons
@@ -75,18 +78,20 @@ p {
 	position: relative;
 	z-index: 100;
 	background-color: #12487E;
-	height: 130px;
+	height: 120px;
 	border: 0px;
 	margin-bottom: 0;
 	border-radius: 0;
 }
-.navbar-collapse {
+.navbar-default .navbar-collapse {
 	background-color: #12487E;
 	margin-top: 40px;
+	border-bottom: 4px solid #F9CF3C;
 }
 @media (min-width: 768px) {
-	.navbar-collapse {
+	.navbar-default .navbar-collapse {
 		background: none;
+		border: 0;
 	}
 }
 .navbar-default .navbar-nav > li > a {
@@ -165,21 +170,28 @@ li.dropdown.open {
 .carousel .carousel-caption, 
 .carousel .carousel-button {
 	position: absolute;
-	text-shadow: 0px 0px 5px rgba(0, 0, 0, .6);
+	text-shadow: 0px 0px 8px rgba(0, 0, 0, .4);
 }
 .carousel .carousel-caption {
-	top: -15px;
+	top: 0;
+}
+.carousel .carousel-caption h1 {
+	margin-top: 0;
+	color: white;
+	font-size: 2em;
+}
+@media (min-width: 768px) {
+	.carousel .carousel-caption h1 {
+		font-size: 3em;
+	}
 }
 .carousel .carousel-button {
 	text-align: center;
 	left: 50%;
 	bottom: 20px;
 }
-.carousel-caption h1 {
-	color: white;
-}
 .carousel-button a {
-	color: #E7E7E7;
+	color: #F9CF3C;
 	font-size: 2em;
 	display: none;
 }
@@ -188,15 +200,17 @@ li.dropdown.open {
 	margin-bottom: -1px;
 }
 @media (min-width: 1170px) {
+	.carousel .carousel-caption {
+		top: 20px;
+	}
+	.carousel .carousel-caption h1 {
+		font-size: 4em;
+	}
 	.carousel-button {
 		z-index: 1000;
 	}
 	.carousel-button a {
 		display: block;
-	}
-	.carousel .carousel-caption {
-		top: 20px;
-		font-size: 1.1em;
 	}
 }
 
@@ -235,6 +249,9 @@ li.dropdown.open {
 .thumbnail .caption {
 	background-color: #E7E7E7;
 	text-align: center;
+}
+.thumbnail h4 {
+	font-weight: 300;
 }
 
 /*
