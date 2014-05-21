@@ -1,6 +1,14 @@
 {% include header.html %}
 			
 	<div class="container wrap">
+			
+			{% if page.image %}
+				<div class="row">
+					<div class="col-md-12">
+						<img class="featured-image" src="{{ site.baseurl }}/img/{{ page.image }}">
+					</div>
+				</div>
+				{% endif %}
 		
 			{{ content }}
 
