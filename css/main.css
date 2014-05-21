@@ -97,6 +97,7 @@ i.fa {
 	.navbar-default .navbar-collapse {
 		background: none;
 		border: 0;
+		margin-right: 15px;
 	}
 }
 .navbar-default .navbar-nav > li > a {
