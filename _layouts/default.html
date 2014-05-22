@@ -5,10 +5,12 @@
 			{% if page.image %}
 				<div class="row">
 					<div class="col-md-12">
-						<img class="featured-image" src="{{ site.baseurl }}/img/{{ page.image }}">
+						<div class="featured-image">
+							<img src="{{ site.baseurl }}/img/{{ page.image }}">
+						</div>
 					</div>
 				</div>
-				{% endif %}
+			{% endif %}
 		
 			{{ content }}
 

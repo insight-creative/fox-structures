@@ -13,12 +13,15 @@ body {
 	border-radius: 3px;
 	margin-bottom: 40px;
 	border-top: 8px solid #F9CF3C;
+	border-bottom: 8px solid #F9CF3C;
 }
 img {
 	width: 100%;
 	height: auto;
 }
 .featured-image {
+	margin-left: -15px;
+	margin-right: -15px;
 	border-radius: 3px;
 	border-bottom: 8px solid #F9CF3C;
 }
@@ -88,7 +91,6 @@ i.fa {
 	height: 120px;
 	border: 0px;
 	margin-bottom: 0;
-	border-radius: 3px;
 	margin-right: -15px;
 	margin-left: -15px;
 }
@@ -227,13 +229,16 @@ li.dropdown.open {
  * Feature
  */
 
-.feature .feature-button {
+.feature .feature-footer {
 	text-align: center;
 	font-size: 1.2em;
 }
-
-.feature-button .btn-primary {
+.feature-footer .btn-primary {
 	padding: 10px 35px;
+}
+.feature-footer a {
+	margin-right: 15px;
+	margin-left: 15px;
 }
 
 /*
