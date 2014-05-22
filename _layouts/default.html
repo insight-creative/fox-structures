@@ -1,17 +1,17 @@
 {% include header.html %}
-			
-	<div class="container wrap">
-			
-			{% if page.image %}
-				<div class="row">
-					<div class="col-md-12">
-						<div class="featured-image">
-							<img src="{{ site.baseurl }}/img/{{ page.image }}">
-						</div>
-					</div>
-				</div>
-			{% endif %}
-		
-			{{ content }}
+      
+  <div class="container wrap">
+      
+      {% if page.image %}
+        <div class="row">
+          <div class="col-md-12">
+            <div class="featured-image">
+              <img src="{{ site.baseurl }}/img/{{ page.image }}">
+            </div>
+          </div>
+        </div>
+      {% endif %}
+    
+      {{ content }}
 
 {% include footer.html %}
