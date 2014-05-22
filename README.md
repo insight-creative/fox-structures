@@ -1,5 +1,5 @@
-foxstructures
-=============
+Fox Structures
+==============
 
 To view this site locally, run like this:
 
