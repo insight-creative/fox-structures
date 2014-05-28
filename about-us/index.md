@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About Fox Structures
+meta: Since 1982 Fox Structures has been a respected Fox River Valley and northeast Wisconsin design/build agricultural and commercial construction company.
+title: Fox Structures—Experts at Building Success.
 ---
 
-## Building Customer Satisfaction
+## For expert agricultural and commercial construction in northeast Wisconsin, count on Fox Structures.
 
-Fox Structures began in 1982 to serve the building needs of agricultural and commercial customers throughout Northeast Wisconsin. During the 1990s, our ag construction work expanded significantly as farm operations shifted to larger, more sophisticated structures. At the same time, our commercial work grew to embrace a wide variety of buildings and facilities as business growth boomed throughout the area.
+Since 1982 Fox Structures has focused on two things: listening to customers and delivering what we promise. That’s a pretty simple business plan for a design/build contractor. But it’s one that works. From planning and design, through construction to your final walk-through, you'll have our dedicated attention every step of the process. Fox Structures’ owners are even present on every job. This focus served us well and over the next decades we grew our agricultural and commercial portfolio, completing projects to our customer’s personal specifications, in the most cost-efficient manner, while always meeting our own demanding quality standards.
 
-Many customers like the way Fox partners with them to create the ideal plan and work schedule. They appreciate our solid standards for quality work as well as our flexibility to meet their personal specifications. And with Fox owners involved on every project, it’s easy to ensure customer satisfaction from start to finish.
+Today Fox Structures provides design and construction services for all types of agricultural, commercial, retail, light manufacturing and residential buildings. In addition, mini warehouses, storage facilities and special-use buildings have continued to fuel both our growth and progress.
 
-Today Fox Structures provides both design and construction services for all types of commercial, retail, agricultural, light manufacturing and residential buildings. In addition, mini warehouses, storage facilities and special use buildings have continued to fuel both our growth and success.
-
- 
-**It’s true. Our building success starts with you.**
+Browse some of the [unique projects](/portfolio/) we’ve built in the past. Then [contact us](/contact/) and see why our building success starts with you!

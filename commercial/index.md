@@ -1,11 +1,14 @@
 ---
 layout: category
+meta: Fox Structures is a full service Fox River Valley and northeast Wisconsin design/build contractor specializing in all types of commercial construction.
 category: commercial
 image: commercial.jpg
 title: Commercial
 ---
 
-Fox Structures works directly with you to provide you with the best fit for your business. From aesthetics and space programming to exterior colors and materials utilizing the latest design technology. We will assist you with local and state approvals, building code reviews, site design, and permitting. Let Fox Structures' years of experience make your transition into a new facility, or the remodel or your existing facility, seamless.
+### Quality Commercial Construction is Our Business.
+
+From retail storefronts to light industrial buildings to specialized structures, we know that your needs are unique. That’s why Fox Structures works with you at each stage of the building process to determine the best solution for your company’s needs. From aesthetics and space planning to exterior colors and selecting materials utilizing the latest design technology—we do it all to ensure your finished project works for you. We also assist with local and state approvals, building code reviews, site design and permitting. Our dedication to detail and years of experience make your move to a new facility—or the upgrade of your existing facility—as efficient and hassle free as possible. Call us for your commercial building needs.
 
 * Light Manufacturing
 * Corporate Offices
@@ -14,6 +17,8 @@ Fox Structures works directly with you to provide you with the best fit for your
 * Convenience Stores
 * Auto Service Stations
 * Restaurants & Eateries
-* Laboratory / Research
+* Laboratory/Research
 * Animal Boarding
 * Golf Clubhouses
+
+Learn more about our [commercial project expertise](/downloads/business-retail.pdf). Then [contact us](/contact/) and see why our building success starts with you!

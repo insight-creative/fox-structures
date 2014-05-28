@@ -1,10 +1,13 @@
 ---
 layout: category
+meta: Fox Structures — a Fox River Valley and northeast Wisconsin design/build contractor specializing in storage/warehouse, agricultural and commercial construction.
 category: storage
+image: badgerland-storage.jpg
 title: Storage
 ---
 
-Fox Structures has a significant track record building warehouse facilities both large and small. Customers like the fact that we perform all concrete work to ensure the slab foundation is done right. Once you’re ready to build, our crews can get your warehouse erected and operational in record time. We can build any size structure with any variety of stall configurations, plus install all doors and outside lighting — even get the drive area finished with gravel, asphalt or cement.
+The team at Fox Structures specializes in building warehouse facilities of all sizes for a variety of purposes. To get the best possible result, we work with you on every step of the process to design and build a custom solution that exactly meets your needs. And we bring our exacting attention to detail to each project—installing all doors and outside lighting—and finishing the drive area.
 
-* Mini Warehouses
-* Storage Facilities
+Count on us for site design and comprehensive design/build services for steel and wood structures featuring all siding and roofing options, plus general contractor support—including all concrete work and coordination of sub contractors. The highest quality at a very competitive price—these are the hallmarks of Fox Structures mini warehouses and commercial storage facilities.
+
+See how we approach [specialized storage solutions](/downloads/mini-warehouses.pdf). Then [contact us](/contact/) and see why our building success starts with you!

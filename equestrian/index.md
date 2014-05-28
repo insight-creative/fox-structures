@@ -1,7 +1,20 @@
 ---
 layout: category
+meta: Fox Structures is a Fox River Valley and northeast Wisconsin design/build contractor specializing in equestrian, agricultural and commercial construction.
 category: equestrian
+image: equestrian.jpg
 title: Equestrian
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc varius malesuada tortor, ac consectetur leo tincidunt et. Morbi imperdiet sem dolor, quis malesuada eros consequat id. Sed ullamcorper nulla ac odio porta, vitae porttitor magna dignissim. Morbi venenatis ante lectus, ac fermentum nisl auctor eget. Maecenas lacus nisl, tempor a rutrum eu, fermentum a erat. Vestibulum consectetur commodo dolor, et consectetur sem tincidunt sed.
+### We Build Winning Equestrian Facilities.
+
+People and horses have a special bond. Your horse is an important part of your life and you want the best possible accommodations for them. When it comes to superior facilities to accommodate horses, we have years of experience building unique and functional riding arenas, stall barns, storage areas, run-in shelters and more. No matter what you are looking for in an equestrian facility, we’ll build on your vision to create an end product that meets your needs and exceeds your expectations.
+
+* Tack Rooms
+* Stall Barns
+* Run-In Shelters
+* Feed Storage
+* Wash Stalls
+* Riding Arenas 
+
+Read more about our exceptional [equestrian construction expertise](/downloads/equestrian.pdf). Then [contact us](/contact/) and see why our building success starts with you!

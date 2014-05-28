@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Ducat Homestead
-image: ducat.jpg
+title:  Tilkens Farm
+image: tilkens-farm.jpg
 categories: agricultural projects
 ---
 
 **Location**  
-New Franken, WI
+Lake Geneva, WI

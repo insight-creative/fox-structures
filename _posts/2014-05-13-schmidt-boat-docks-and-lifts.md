@@ -7,7 +7,8 @@ categories: commercial projects
 
 4,200 SF Retail/Product Assembly/Office building with mezzanine
 
-Date Completed
+**Date Completed**  
 Early 2014
-Location
+
+**Location**  
 Waupaca, WI

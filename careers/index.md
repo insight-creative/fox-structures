@@ -1,5 +1,6 @@
 ---
 layout: page
+meta: Fox Structures is an experienced Fox River Valley and northeast Wisconsin design/build contractor specializing in agricultural and commercial construction.
 title: Careers
 ---
 
@@ -14,7 +15,7 @@ Our employees are the backbone of our success. Our field and office staff repres
 
 ---
 
-### Experienced Building Foreman/Supervisor:
+### Experienced Building Foreman/Supervisor
 Position Summary: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.  Ability to read blueprints, plans, specifications received for project (steel frame and/or wood frame metal clad buildings) to determine work activities, materials and scheduling. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Meeting operational standards by contributing construction information to strategic plans and reviews; implementing production, productivity, quality, and customer-service standards; resolving problems; identifying construction management system improvements. Performing other duties as assigned by management.
 
 Skills/Qualifications: Project Management, Quality Management, Supervision, Delegation, Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Strong Work Ethic, Problem Solving Skills, Technical Skills, Dependability, Initiative, Professionalism. Experience in building erection and job site management is required.
@@ -40,7 +41,7 @@ To be considered for this position please e-mail your resume in Microsoft Word o
 
 ---
 
-### Carpenter/Erection Laborer:
+### Carpenter/Erection Laborer
 Position Summary: Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring site is clean and safe by following standards and procedures and complying with legal regulations.Read materials lists to ensure the proper materials are loaded and taken to the jobsite.  Perform other duties as assigned by Foreman/Supervisor and/or Lead Men.
 
 Skills/Qualifications: Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in building erection a plus, but not necessary. Willing to train if you are willing to learn.
@@ -53,7 +54,7 @@ To be considered for this position please e-mail your resume in Microsoft Word o
 
 ---
 
-### Concrete Crew Laborer:
+### Concrete Crew Laborer
 Position Summary: Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Perform associated tasks involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensure site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Concrete Foreman/Supervisor and/or Concrete Lead Men.
 
 Skills/Qualifications: Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in concrete forming and flatwork a plus, but not necessary. Willing to train if you are willing to learn.

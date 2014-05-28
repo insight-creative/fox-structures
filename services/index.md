@@ -1,26 +1,29 @@
 ---
 layout: page
+meta: Fox Structures is an experienced full service Fox River Valley and northeast Wisconsin design/build agricultural and commercial construction company.
 title: Services
 ---
 
-Look to Fox Structures for all the critical services needed to carry your project successfully from start to finish.
+Fox Structures is a Full Service Agricultural and Commercial Contractor.
 
-We invite you to explore our full scope of services.  Sit down with us and review similar past projects…share any plans and samples you may have…discuss materials and construction options – even pour over plan details.
+From initial planning to follow-up service, Fox Structures offers all the critical services needed to complete your new construction or building addition project on time, within budget and to your satisfaction.
 
-Whether your project is an addition or new construction, Fox Structures will be the one company that will listen to what you want…and deliver what is promised.
+Look through our site to review our similar [past projects](/portfolio/), than contact us to share plans or ideas and discuss options. You can count on us for:
 
 * Complete design/build services including engineering and architectural support
 * State plan approval
-* General contracting and turnkey services
-	* Electrical
-	* Plumbing
-	* Painting
-	* Flooring
-	* Masonry
-	* Dry walling
-	* Insulating
+* General contracting and turnkey services 
+  * Electrical
+  * Plumbing
+  * Painting
+  * Flooring
+  * Masonry
+  * Dry walling
+  * Insulating
 * Self-performed concrete work
 * Highest quality craftsmanship
 * Hands-on management
 * Realistic completion dates
 * Successful completion within budget
+
+Learn more about our general design/build services [LINK TO PDF 1] or our agricultural design/build services [LINK TO PDF 2]. Then [contact us](/contact/) and see why our building success starts with you!
