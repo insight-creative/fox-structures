@@ -10,4 +10,4 @@ The team at Fox Structures specializes in building warehouse facilities of all s
 
 Count on us for site design and comprehensive design/build services for steel and wood structures featuring all siding and roofing options, plus general contractor support—including all concrete work and coordination of sub contractors. The highest quality at a very competitive price—these are the hallmarks of Fox Structures mini warehouses and commercial storage facilities.
 
-See how we approach [specialized storage solutions](/downloads/mini-warehouses.pdf). Then [contact us](/contact/) and see why our building success starts with you!
+See how we approach [specialized storage solutions]({{ site.baseurl }}/downloads/mini-warehouses.pdf). Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!

@@ -4,11 +4,11 @@ meta: Fox Structures is an experienced full service Fox River Valley and northea
 title: Services
 ---
 
-Fox Structures is a Full Service Agricultural and Commercial Contractor.
+### Fox Structures is a Full Service Agricultural and Commercial Contractor.
 
 From initial planning to follow-up service, Fox Structures offers all the critical services needed to complete your new construction or building addition project on time, within budget and to your satisfaction.
 
-Look through our site to review our similar [past projects](/portfolio/), than contact us to share plans or ideas and discuss options. You can count on us for:
+Look through our site to review our similar [past projects]({{ site.baseurl }}/portfolio/), than contact us to share plans or ideas and discuss options. You can count on us for:
 
 * Complete design/build services including engineering and architectural support
 * State plan approval
@@ -26,4 +26,4 @@ Look through our site to review our similar [past projects](/portfolio/), than c
 * Realistic completion dates
 * Successful completion within budget
 
-Learn more about our general design/build services [LINK TO PDF 1] or our agricultural design/build services [LINK TO PDF 2]. Then [contact us](/contact/) and see why our building success starts with you!
+Learn more about our general design/build services [LINK TO PDF 1] or our agricultural design/build services [LINK TO PDF 2]. Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!

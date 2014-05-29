@@ -13,4 +13,4 @@ Recently featured on the History Channel’s “Only in America” program with 
 **Location**  
 New Franken, WI
 
-![Rosendale Freestall](/img/rosendale-freestall.jpg)
+![Rosendale Freestall]({{ site.baseurl }}/img/rosendale-freestall.jpg)

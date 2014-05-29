@@ -15,4 +15,4 @@ When it comes to residential construction, the choices and decisions may seem en
 * Residential Storage Buildings
 * Hobby Buildings
 
-Discover more about our residential project construction [LINK to PDF]. Then [contact us](/contact/) and see why our building success starts with you!
+Discover more about our residential project construction [LINK to PDF]. Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!

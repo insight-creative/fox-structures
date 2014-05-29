@@ -21,4 +21,4 @@ From curtain installation to utility buildings to 100,000-sq.-ft. freestall barn
   * Equestrian Facilities
   * Maintenance/[Curtain Repair](/downloads/curtains.pdf)
 
-Learn more about our approach to [milking parlors](/downloads/milking-parlors), [freestall barns](/downloads/freestall-barns) and youngstock facilities [LINKS TO PDFs]. Then [contact us](/contact/) and see why our building success starts with you!
+Learn more about our approach to [milking parlors]({{ site.baseurl }}/downloads/milking-parlors), [freestall barns]({{ site.baseurl }}/downloads/freestall-barns) and youngstock facilities [LINKS TO PDFs]. Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!

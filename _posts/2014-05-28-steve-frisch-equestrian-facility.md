@@ -5,8 +5,8 @@ image: steve-frisch-equestrian-facility.jpg
 categories: equestrian projects
 ---
 
-![Steve Frisch Interior](/img/steve-frisch-interior-detail.jpg)
+![Steve Frisch Interior]({{ site.baseurl }}/img/steve-frisch-interior-detail.jpg)
 
-![Steve Frisch Interior](/img/steve-frisch-interior.jpg)
+![Steve Frisch Interior]({{ site.baseurl }}/img/steve-frisch-interior.jpg)
 
-![Steve Frisch Exterior](/img/steve-frisch-side.jpg)
+![Steve Frisch Exterior]({{ site.baseurl }}/img/steve-frisch-side.jpg)

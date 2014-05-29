@@ -17,4 +17,4 @@ People and horses have a special bond. Your horse is an important part of your l
 * Wash Stalls
 * Riding Arenas 
 
-Read more about our exceptional [equestrian construction expertise](/downloads/equestrian.pdf). Then [contact us](/contact/) and see why our building success starts with you!
+Read more about our exceptional [equestrian construction expertise]({{ site.baseurl }}/downloads/equestrian.pdf). Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
