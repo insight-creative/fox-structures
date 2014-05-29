@@ -1,5 +1,9 @@
 name: Fox Structures
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: "/foxstructures"
 permalink: none
+
+ftp_host: 'insightcreative.info'
+ftp_dir: '/foxstructures'
+ftp_passive: false
