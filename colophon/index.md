@@ -3,7 +3,7 @@ layout: page
 title: Colophon
 ---
 
-### Date of initial development
+### Date of Initial Development
 
 May 2014
 
