@@ -4,7 +4,7 @@ meta: Since 1982 Fox Structures has been a respected Fox River Valley and northe
 title: About Us
 ---
 
-### Fox Structures—Experts at Building Success.
+# Fox Structures—Experts at Building Success.
 
 ### For expert agricultural and commercial construction in northeast Wisconsin, count on Fox Structures.
 

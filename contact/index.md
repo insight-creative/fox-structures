@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 ---
 
-### Contact Us to Discuss Your Project.
+# Contact Us to Discuss Your Project.
 
 Phone: 800-236-1369  
 Local: 920-766-9305  
@@ -17,9 +17,9 @@ Kaukauna, WI 54130
 
 Fox Structures is located in the Kaukauna Industrial Park, near U.S. 41 between Hwy 55 and County Road J.
 
-**From the 55 exit:** Take 55 south to the first 4-way stop and turn left (east) on Hwy 00 (Hyland Ave). Go ¾ mile to Badger Road on the left — you’ll see Fox Structures straight ahead at 2201 Eastline Road.
+**From the 55 exit:** Take 55 south to the first 4-way stop and turn left (east) on Hwy 00 (Hyland Ave). Go ¾ mile to Badger Road on the left—you’ll see Fox Structures straight ahead at 2201 Eastline Road.
 
-**From the J exit:** Take J south to the first 4-way stop at Hwy 00 (Hyland Ave) and turn right (west). Go ¼ mile to Badger Road on the right — you’ll see Fox Structures straight ahead at 2201 Eastline Road.
+**From the J exit:** Take J south to the first 4-way stop at Hwy 00 (Hyland Ave) and turn right (west). Go ¼ mile to Badger Road on the right—you’ll see Fox Structures straight ahead at 2201 Eastline Road.
 
 **E-mail:** info@foxstructures.com
 

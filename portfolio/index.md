@@ -5,7 +5,7 @@ category: projects
 title: Portfolio
 ---
 
-### See Our Successful Projects for Yourself.
+# See our Successful Projects for Yourself.
 
 Exemplary finished projects and satisfied customers are our greatest reward. Take a look at just some of our completed projects and see why over 80% of our business today comes from repeat clients.
 
