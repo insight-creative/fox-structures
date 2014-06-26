@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Schmidt Boat Docks and Lifts
-image: schmidt-boat-960x495.jpg
+title:  Schmidt Boat Lifts and Docks
+image: schmidt-boat-lifts-and-docks.jpg
 categories: commercial projects
 ---
 
@@ -11,4 +11,6 @@ categories: commercial projects
 Early 2014
 
 **Location**  
-Waupaca, WI
+Highway 10  
+222 Runway Dr.  
+Waupaca, WI 54981

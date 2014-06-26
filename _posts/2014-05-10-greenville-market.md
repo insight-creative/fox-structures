@@ -2,7 +2,7 @@
 layout: post
 title:  Greenville Market
 image: greenville-market.jpg
-categories: commercial projects featured
+categories: commercial projects
 ---
 
 **Date Completed**  

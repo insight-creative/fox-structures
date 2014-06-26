@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Oaks Clubhouse
+title:  The Oaks Golf Course
 image: oaks-clubhouse.jpg
 categories: commercial projects featured
 ---
@@ -11,4 +11,5 @@ Located in the Madison, WI area, the Oaks Clubhouse features a Pro-Shop and rest
 2007
 
 **Location**  
-Cottage Grove, WI
+4740 Pierceville Road  
+Cottage Grove, Madison, WI 53527

@@ -11,4 +11,5 @@ During June of 2013 Fox Structures broke ground on a 31,000 sq. ft. addition to 
 Early 2014
 
 **Location**  
-Appleton, WI
+1900 Prospect Ct.  
+Appleton, WI 54914

@@ -13,7 +13,6 @@ From retail storefronts to light industrial buildings to specialized structures,
 * Light Manufacturing
 * Corporate Offices
 * Retail
-* Financial Institutions
 * Convenience Stores
 * Auto Service Stations
 * Restaurants & Eateries
@@ -21,4 +20,4 @@ From retail storefronts to light industrial buildings to specialized structures,
 * Animal Boarding
 * Golf Clubhouses
 
-Learn more about our [commercial project expertise]({{ site.baseurl }}/downloads/business-retail.pdf). Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
+Learn more about our commercial project expertise. [Contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
