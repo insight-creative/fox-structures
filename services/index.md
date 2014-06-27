@@ -26,4 +26,4 @@ Look through our site to review our similar [past projects]({{ site.baseurl }}/p
 * Realistic completion dates
 * Successful completion within budget
 
-Learn more about our general design/build services [LINK TO PDF 1] or our agricultural design/build services [LINK TO PDF 2]. Then [contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
+[Contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!

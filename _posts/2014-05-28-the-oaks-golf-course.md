@@ -13,3 +13,7 @@ Located in the Madison, WI area, the Oaks Clubhouse features a Pro-Shop and rest
 **Location**  
 4740 Pierceville Road  
 Cottage Grove, Madison, WI 53527
+
+![Oaks Clubhouse]({{ site.baseurl }}/img/oaks-clubhouse-1.jpg)
+
+![Oaks Clubhouse]({{ site.baseurl }}/img/oaks-clubhouse-2.jpg)
