@@ -17,11 +17,6 @@ layout: default
 <div class="row thumbnail-grid">
   {% assign cat = page.category %}
   {% for post in site.categories[cat] %}
-    <div class="thumbnail">
-      <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
-      <div class="caption">
-        <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
-      </div>
-    </div>
+    {% include thumbnail.html %}
   {% endfor %}
 </div>

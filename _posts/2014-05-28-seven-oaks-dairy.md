@@ -5,7 +5,7 @@ image: untitled-project-4.jpg
 categories: agricultural projects
 ---
 
-Dairy facility: freestall, parlor, breezeway, office, utility area, curatins.
+Dairy facility: freestall, parlor, breezeway, office, utility area, curtains.
 
 **Location**  
 W229 County Road ZZ  

@@ -50,8 +50,14 @@ img {
 h1 {
 	color: #12487E;
 	font-size: 2.2em;
-  font-weight: 300;
+  text-align: center;
   line-height: 1.3;
+}
+@media (min-width: 980px) {
+  h1 {
+    width: 120%;
+    margin-left: -10%;
+  }
 }
 h2 {
 	color: #12487E;
@@ -245,6 +251,7 @@ li.dropdown.open {
 	-webkit-column-gap: 1em; 
 	margin-right: 0px;
 	margin-left: 0px;
+  margin-bottom: 20px;
 }
 .thumbnail-column {
   margin-top: 15px;
@@ -262,8 +269,8 @@ li.dropdown.open {
 	background-color: #E7E7E7;
 	text-align: center;
 }
-.thumbnail h4 {
-	font-weight: 300;
+.thumnbnail .caption .caption-link {
+  font-weight: 300;
 }
 
 /*

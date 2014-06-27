@@ -5,6 +5,8 @@ image: agricultural.jpg
 title: Agricultural
 ---
 
+---
+
 ### Our Agricultural Construction Success Keeps Growing.
 
 Fox Structures designs and builds unique agricultural facilities for customers in Northeast Wisconsin. Our significant experience means we understand the specialized challenges facing the agricultural industry. 

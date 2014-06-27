@@ -2,8 +2,10 @@
 layout: category
 meta: Fox Structures — a Fox River Valley and northeast Wisconsin design/build contractor specializing in storage/warehouse, agricultural and commercial construction.
 category: storage
-image: badgerland-storage.jpg
+image: salm.jpg
 title: Storage
+---
+
 ---
 
 ### Quality Storage and Mini Warehouse Specialists
