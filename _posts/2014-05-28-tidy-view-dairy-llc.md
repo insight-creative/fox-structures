@@ -2,7 +2,8 @@
 layout: post
 title:  Tidy View Dairy, LLC
 image: untitled-project-1.jpg
-categories: agricultural projects featured
+categories: agricultural projects
+featured: true
 ---
 
 Dairy facility: freestall, parlor, vestibule, offices, curtains, drovers lane, holding area, bed pack.

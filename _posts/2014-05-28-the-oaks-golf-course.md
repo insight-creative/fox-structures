@@ -2,7 +2,8 @@
 layout: post
 title:  The Oaks Golf Course
 image: oaks-clubhouse.jpg
-categories: commercial projects featured
+categories: commercial projects
+featured: true
 ---
 
 Located in the Madison, WI area, the Oaks Clubhouse features a Pro-Shop and restaurant.

@@ -79,8 +79,10 @@ title: Design/Build Construction Services
     </div>
   </div>
   <div class="row thumbnail-grid">
-    {% for post in site.categories.featured limit: 3 %}
-      {% include thumbnail.html %}
+    {% for post in site.categories.projects %}
+      {% if post.featured %}
+        {% include thumbnail.html %}
+      {% endif %}
     {% endfor %}
   </div>
   <div class="row">

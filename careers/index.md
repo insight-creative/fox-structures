@@ -90,5 +90,4 @@ Meets operational standards by contributing construction information to strategi
 ---
 
 ### All inquiries will be kept strictly confidential.
-
 Fox Structures Inc. does not discriminate in hiring or employment on the basis of race, color, religion, national origin, age, sex, sexual orientation, disability, military service, or any other basis on which discrimination is prohibited by federal, state or local laws. Women and minorities are strongly encouraged to apply.
