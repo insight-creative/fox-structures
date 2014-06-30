@@ -8,62 +8,84 @@ title: Careers
 
 Our employees are the backbone of our success. Our field and office staff represent the best in their respective fields. We offer benefits such as health insurance, vacation pay, holiday pay, 401(k), life insurance, short term disability, and profit sharing. We are experiencing growth and are looking for dependable, self-motivated team members in the following positions:
 
-**Experienced Building Foreman/Supervisor**  
-**Lead Men (Erection/Carpentry)**  
-**Carpenter/Erection Laborer**  
-**Concrete Laborers**  
+**To be considered for this position please e-mail your resume in Microsoft Word or PDF format to <info@foxstructures.com>—please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.**
+
+* Experienced Concrete Foreman/Supervisor
+* Senior Designer
+* Experienced Building Foreman/Supervisor
+* Lead Man (Erection/Carpentry)
+* Carpenter/Erection Laborer
+* Concrete Laborers
+
+---
+
+### Experienced Concrete Foreman/Supervisor
+**Position Summary:** Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff. Accomplishes construction human resource objectives by orienting, training, assigning, scheduling, coaching, counseling, and disciplining employees; communicating job expectations; planning, monitoring, appraising job contributions; adhering to policies and procedures. Read blueprints, plans, specifications received for project to determine work activities; performing concrete related tasks (building layout, flatwork, footings, walls, etc.) involving physical labor; lifting; operate hand and power tools of all types; run equipment, ensure site is clean and safe. Manages sub-contractors by monitoring and controlling performance.
+
+Meets operational standards by contributing construction information to strategic plans and reviews; implementing production, productivity, quality, and customer-service standards; resolving problems; identifying construction management system improvements. Accomplishes construction project results by calculating resources required; establishing standards and protocols; allocating resources; scheduling and coordinating staff and sub-contractors; evaluating milestone assumptions and conclusions; resolving design problems; evaluating and implementing change orders. Approves construction projects by conducting inspections at critical phases; obtaining approvals from customers. Prevents fines and interruptions by complying with, and enforcing, codes. Maintains safe, secure, and healthy work environment by following and enforcing standards and procedures; complying with legal regulations. Enhances organization reputation by accepting ownership for accomplishing new and different requests; exploring opportunities to add value to job accomplishments.
+
+**Skills/Qualifications:** Project Management, Quality Management, Supervision, Delegation, Attention to Detail, Quality Focus, Able to Lift Heavy Objects. Experience in concrete placement.
+
+**Hours per week:** 40-60 average
+
+---
+
+### Senior Designer
+**Position Summary:** This position supports the project management & sales staff by, but not limited to, designing/drafting agricultural, light commercial and residential projects, attending client meetings, performing field verifications and other duties as assigned. The successful candidate will have knowledge of recent releases of AutoCAD and Revit in addition to Microsoft Office products such as Word and Excel. Hands-on construction experience is a plus, but not required. Working knowledge of the current International Building Code is preferred.
+
+**Skills/Qualifications:**
+
+- Two-year degree in Computer Aided Design or equivalent field desired but will also consider education/work experience combination
+- Attention to detail
+- Quality focused
+
+**Pay Range:** Wages will vary on experience
+
+**Hours per week:**  45 – 50 on average
 
 ---
 
 ### Experienced Building Foreman/Supervisor
-Position Summary: Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.  Ability to read blueprints, plans, specifications received for project (steel frame and/or wood frame metal clad buildings) to determine work activities, materials and scheduling. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Meeting operational standards by contributing construction information to strategic plans and reviews; implementing production, productivity, quality, and customer-service standards; resolving problems; identifying construction management system improvements. Performing other duties as assigned by management.
+**Position Summary:** Completes construction projects (commercial, agricultural, and residential buildings) by planning, organizing, and controlling projects; completing quality inspections; supervising sub-contractors and staff.  Ability to read blueprints, plans, specifications received for project (steel frame and/or wood frame metal clad buildings) to determine work activities, materials and scheduling. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Meeting operational standards by contributing construction information to strategic plans and reviews; implementing production, productivity, quality, and customer-service standards; resolving problems; identifying construction management system improvements. Performing other duties as assigned by management.
 
-Skills/Qualifications: Project Management, Quality Management, Supervision, Delegation, Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Strong Work Ethic, Problem Solving Skills, Technical Skills, Dependability, Initiative, Professionalism. Experience in building erection and job site management is required.
+**Skills/Qualifications:** Project Management, Quality Management, Supervision, Delegation, Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Strong Work Ethic, Problem Solving Skills, Technical Skills, Dependability, Initiative, Professionalism. Experience in building erection and job site management is required.
 
-Pay Range: Wages will vary on experience
+**Pay Range:** Wages will vary on experience
 
-Hours per week: 40-60 average
-
-To be considered for this position, please e-mail your resume in Microsoft Word or PDF format to info@foxstructures.com. Please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.
+**Hours per week:** 40-60 average
 
 ---
 
 ### Lead Men (Erection/Carpentry)
-Position Summary: Assist the Construction Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Assists the Construction Foreman in accomplishing construction project results by calculating resources required; maintaining standards and protocols; assisting in allocating resources; adhering to scheduling and coordination of staff and sub-contractors as set forth by the Construction Foreman/Supervisor. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations.  Perform other duties as assigned by Foreman/Supervisor.
+**Position Summary:** Assist the Construction Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Assists the Construction Foreman in accomplishing construction project results by calculating resources required; maintaining standards and protocols; assisting in allocating resources; adhering to scheduling and coordination of staff and sub-contractors as set forth by the Construction Foreman/supervisor. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring the job site is clean and safe by following and enforcing standards and procedures and complying with legal regulations.  Perform other duties as assigned by Foreman/Supervisor
 
-Skills/Qualifications: Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in building erection is required – supervisory experience preferred.
+**Skills/Qualifications:** Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in building erection is required – supervisory experience preferred.
 
-Pay Range: Wages will vary on experience
+**Pay Range:** Wages will vary on experience
 
-Hours per week: 40-60 average 
-
-To be considered for this position please e-mail your resume in Microsoft Word or PDF format to info@foxstructures.com. Please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.
+**Hours per week:** 40-60 average 
 
 ---
 
 ### Carpenter/Erection Laborer
-Position Summary: Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring site is clean and safe by following standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Foreman/Supervisor and/or Lead Men.
+**Position Summary:** Assist the Construction Foreman and Lead Men in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Erecting structures involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensuring site is clean and safe by following standards and procedures and complying with legal regulations.Read materials lists to ensure the proper materials are loaded and taken to the jobsite.  Perform other duties as assigned by Foreman/Supervisor and/or Lead Men.
 
-Skills/Qualifications: Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in building erection a plus, but not necessary. Willing to train if you are willing to learn.
+**Skills/Qualifications:** Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in building erection a plus, but not necessary. Willing to train if you are willing to learn.
 
-Pay Range: Wages will vary on experience
+**Pay Range:** Wages will vary on experience
 
-Hours per week: 40-60 average 
-
-To be considered for this position please e-mail your resume in Microsoft Word or PDF format to info@foxstructures.com. Please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.
+**Hours per week:** 40-60 average 
 
 ---
 
 ### Concrete Crew Laborer
-Position Summary: Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Perform associated tasks involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensure site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Concrete Foreman/Supervisor and/or Concrete Lead Men.
+**Position Summary:** Assist the Concrete Foreman/Supervisor in all aspects of job: reading blueprints, plans and specifications, assisting subcontractors, etc. Perform associated tasks involving physical labor; lifting; operation of hand and power tools of all types; running of equipment, ensure site is clean and safe by following and enforcing standards and procedures and complying with legal regulations. Read materials lists to ensure the proper materials are loaded and taken to the jobsite. Perform other duties as assigned by Concrete Foreman/Supervisor and/or Concrete Lead Men.
 
-Skills/Qualifications: Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in concrete forming and flatwork a plus, but not necessary. Willing to train if you are willing to learn.
+**Skills/Qualifications:** Attention to Detail, Quality Focus, Able to Lift Heavy Objects, Teamwork, Technical Skills, Dependability, Initiative, Strong Work Ethic, Problem Solving Skills. Experience in concrete forming and flatwork a plus, but not necessary. Willing to train if you are willing to learn.
 
-Pay Range: Wages will vary on experience
+**Pay Range:** Wages will vary on experience
 
-Hours per week: 40-60 average 
-
-To be considered for this position please e-mail your resume in Microsoft Word or PDF format to info@foxstructures.com. Please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.
+**Hours per week:** 40-60 average 
 
 ---
 
