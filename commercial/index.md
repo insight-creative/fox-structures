@@ -22,4 +22,4 @@ From retail storefronts to light industrial buildings to specialized structures,
 * Animal Boarding
 * Golf Clubhouses
 
-Learn more about our commercial project expertise. [Contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
+[Contact us]({{ site.baseurl }}/contact/) and see why our building success starts with you!
