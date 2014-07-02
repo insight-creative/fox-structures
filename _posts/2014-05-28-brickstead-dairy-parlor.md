@@ -7,8 +7,7 @@ categories: agricultural projects
 
 Dairy facility: freestall, parlor, curtains
 
-**Date Completed**  
-2006
+**Date Completed**: 2006
 
 **Location**  
 1734 Wayside Road  

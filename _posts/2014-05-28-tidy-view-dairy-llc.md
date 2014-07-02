@@ -6,9 +6,7 @@ categories: agricultural projects
 featured: true
 ---
 
-Dairy facility: freestall, parlor, vestibule, offices, curtains, drovers lane, holding area, bed pack.
-
-Dry cow barn, heifer barn, commodity shed, tractor room, scale room, pump room, vet room.
+Dairy facility: freestall, parlor, vestibule, offices, curtains, drovers lane, holding area, bed pack, dry cow barn, heifer barn, commodity shed, tractor room, scale room, pump room, vet room.
 
 **Location**  
 N3603 Vanden Bosch Road  

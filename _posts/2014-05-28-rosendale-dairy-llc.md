@@ -7,9 +7,7 @@ categories: agricultural projects
 
 Recently featured on the History Channel’s “Only in America” program with Larry the Cable Guy, the complex features two freestall barns servicing 8000 cows and and a commodity storage shed.
 
-Dairy facility: freestall, vestibule, vet room, curtains, cool cells, cross ventilated.
-
-Sand separator room, commodity building, cow pick up building, manure processing building.
+Dairy facility: freestall, vestibule, vet room, curtains, cool cells, cross ventilated, sand separator room, commodity building, cow pick up building, manure processing building.
 
 **Date Completed**  
 2009

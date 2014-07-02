@@ -5,7 +5,7 @@ image: schmidt-boat-lifts-and-docks.jpg
 categories: commercial projects
 ---
 
-4,200 SF Retail/Product Assembly/Office building with mezzanine
+4,200 SF retail/product assembly/office building with mezzanine
 
 **Date Completed**  
 Early 2014
