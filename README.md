@@ -62,3 +62,5 @@ The thumbnail image is taken from the `image:` in each post's front matter.
 ### Icons
 
 There are three sets of icons available to the site. The main category icons (agricultural, commercial, equestrian, residential and storage) included using [Icomoon](http://icomoon.io). The social media icons are included using the [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) icons. The default Bootstrap icons are also available. All of the associated style and font files are in the `/css` and `/font` folders.
+
+## Deployment
