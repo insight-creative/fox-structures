@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  Untitled Project 2
+title:  Gordy Vosters
 image: vosters-2.jpg
 categories: equestrian projects
 ---
+
+**Location**  
+Kaukauna, WI

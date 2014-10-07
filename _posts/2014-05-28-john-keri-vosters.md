@@ -1,6 +1,9 @@
 ---
 layout: post
-title:  Untitled Project 1
+title:  John and Keri Vosters
 image: vosters-1.jpg
 categories: equestrian projects
 ---
+
+**Location**  
+Freedom, WI
