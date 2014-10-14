@@ -14,3 +14,7 @@ A divison of Water-Right, Inc., located in Appleton, WI. This building features 
 **Location**  
 1990 Prospect Ct.  
 Appleton, WI 54914
+
+![Clean Water Center](/img/clean-water-center-2.jpg)
+
+![Clean Water Center](/img/clean-water-center-3.jpg)
