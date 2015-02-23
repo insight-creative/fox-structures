@@ -22,11 +22,11 @@ Our employees are the backbone of our success. Our field and office staff repres
 
 ### Accounting/Controller
 
-**Job Purpose**: The Accounting/Controller position is responsible for monthly, quarterly, and yearly financial reporting and analysis for the company. Additionally, Being involved with and assisting with the financial strategy of the company as the company continues to grow.
+**Job Purpose**: The Accounting/Controller position is responsible for monthly, quarterly, and yearly financial reporting and analysis for the company. Additionally, being involved with and assisting with the financial strategy of the company as the company continues to grow.
 
 **Job Duties/Responsibilities**
 
-* Provide timely and accurate analysis of financial data, reports and trends in order to assist management in making sound business decisions.   Maintain efficient accounting and filing systems used for the company while entering data promptly and efficiently.
+* Provide timely and accurate analysis of financial data, reports and trends in order to assist management in making sound business decisions. Maintain efficient accounting and filing systems used for the company while entering data promptly and efficiently.
 * Accounts payable and accounts receivable duties:  prepare invoices, process bills, prepare statements, process checks, banking and checkbook reconciliation, and other financial duties.
 * Ensure all accounting information is to the Accountant in an accurate and timely manner for the monthly closing process.
 * Manage all compliance reporting, including sales tax reporting, payroll reporting, etc.
