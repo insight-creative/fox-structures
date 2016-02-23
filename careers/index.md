@@ -9,50 +9,14 @@ title: Careers
 Our employees are the backbone of our success. Our field and office staff represent the best in their respective fields. We offer benefits such as health insurance, vacation pay, holiday pay, 401(k), life insurance, short term disability, and profit sharing. We are experiencing growth and are looking for dependable, self-motivated team members in the following positions:
 
 **To be considered for this position please e-mail your resume in Microsoft Word or PDF format to <info@foxstructures.com>—please include the job title for which you are applying for in the subject line of the email or visit our offices at 2201 Eastline Road Kaukauna, WI to complete an employment application.**
+<br>**Or [click here](https://fs10.formsite.com/InsightCreative/form41/index.html) to apply.**
 
-* Accounting/Controller
 * Experienced Concrete Foreman/Supervisor
 * Experienced Building Foreman/Supervisor
 * Lead Men (Erection/Carpentry)
 * Lead Men (Concrete)
 * Carpenter/Erection Laborer
 * Concrete Laborers
-
----
-
-### Accounting/Controller
-
-**Job Purpose**: The Accounting/Controller position is responsible for monthly, quarterly, and yearly financial reporting and analysis for the company. Additionally, being involved with and assisting with the financial strategy of the company as the company continues to grow.
-
-**Job Duties/Responsibilities**
-
-* Provide timely and accurate analysis of financial data, reports and trends in order to assist management in making sound business decisions. Maintain efficient accounting and filing systems used for the company while entering data promptly and efficiently.
-* Accounts payable and accounts receivable duties:  prepare invoices, process bills, prepare statements, process checks, banking and checkbook reconciliation, and other financial duties.
-* Ensure all accounting information is to the Accountant in an accurate and timely manner for the monthly closing process.
-* Manage all compliance reporting, including sales tax reporting, payroll reporting, etc.
-* Provide project-specific support when necessary:  prepare proposals, contracts, inventory lists for jobs, and bid documents.
-* Make suggestions to management on the overall improvement of the company and strategize regarding future plans and profits of the company.
-* Process bi-weekly payroll to include commissions and associated payroll payments.  Track employees’ time in accordance with employee handbook (i.e., vacation days, bonus days, etc.).  Process unemployment compensation requests from the state and handle employee questions pertaining to payroll related issues.
-* Handles all sensitive material with the highest degree of confidentiality.
-* Design, develop, and maintain materials pricing spreadsheets.
-* Receive phone calls and greet customers.  Direct them to the appropriate person and assign any sales inquiries to the proper salesperson. 
-* Performs other duties as assigned.
-
-**Experience and Education**
-
-* Four-year college degree or substantial experience in related field 
-* Knowledge of accounting practices and procedures
-* Advanced knowledge of QuickBooks and Microsoft Excel
-* Must demonstrate a high level of confidentiality
-* Strong customer service attitude for internal and external customers
-* Good planning and organizational skills, good communication (oral and written), detail-oriented, efficient, proactive, accurate 
-* Professionalism with strong work ethic and excellent attendance
-* Proficiency in Microsoft Office (Word, PowerPoint, Outlook, Project)
-* Background in construction desired, but not required
-
-**Key Competencies:** Communication skills; problem analysis and solving; decision making; planning and organizing; attention to detail and high level of accuracy; initiative; integrity; stress tolerance; adaptability; ability to use discretion with confidential information
-
-
 
 ---
 
@@ -112,7 +76,7 @@ Our employees are the backbone of our success. Our field and office staff repres
 
 **Pay Range:** Wages will vary on experience
 
-**Hours per week:** 40-60 average 
+**Hours per week:** 40-60 average
 
 ---
 
@@ -124,7 +88,7 @@ Our employees are the backbone of our success. Our field and office staff repres
 
 **Pay Range:** Wages will vary on experience
 
-**Hours per week:** 40-60 average 
+**Hours per week:** 40-60 average
 
 ---
 
