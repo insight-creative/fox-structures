@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- <link href="{{ site.baseurl }}/img/favicon.png" rel="shortcut icon"> -->
+    <link href="<?php get_image_uri('favicon.png'); ?>" rel="shortcut icon">
     <meta name="description" content="{{ page.meta }}">
 
     <title><?php wp_title(' &ndash; ', true, 'right'); ?><?php bloginfo('name'); ?></title>
