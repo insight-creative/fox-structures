@@ -1,73 +1,60 @@
-Fox Structures
-==============
+# Sandcastle Wordpress Starter Theme
 
-## Getting Started
+A simple-as-possible starter theme and steps for setting up a local Wordpress environment for development.
 
-To view this site locally, run like this:
+> These steps are a high level overview and don't include small details in the setup process. If you're unsure about a tool or step in the process, be aware that you'll likely need to do some additional research to get up to speed. If you're completely new to programming or Wordpress, you should still be able to follow the steps and get things set up, but a general understanding of the command line, Git, and PHP is helpful.
 
-```
-jekyll serve -w --baseurl ""
-```
+## Getting started
 
-To deploy to the test server subdirectory, run like this:
+To run Wordpress locally and get started with this theme, you'll need to:
 
-```
-jekyll serve
-```
+1. Get a copy of Wordpress
+2. Run a local server to serve the Wordpress installation
+3. Create a local database to use for development
+4. Copy this theme into the Wordpress themes directory
 
-And then copy the contents of the `_site` folder to the server.
+Let's walk through those steps:
 
-## Site Organization
+### Download Wordpress
 
-### Categories
+1. Create a directory for your project wherever you want to keep it on your computer.
+2. Download a copy of Wordpress core and place it in the project folder. You can do this from the [Wordpress website](https://wordpress.org/download/), otherwise [WP-CLI](http://wp-cli.org) is a useful command line tool for managing Wordpress installations.
 
-The main categories and sub-categories of site content are:
+### Set up a local server
 
-* Projects
-  * Agricultural
-  * Commercial
-  * Equestrian
-  * Residential
-  * Storage
-  * Featured
-* Testimonials
+You'll need a local server that can run PHP. There are many ways to do this – here are a few options:
 
-### Category Pages
+1. [MAMP](https://www.mamp.info) – MAMP is a tool for running an Apache server and MySQL locally. Download and install it, then configure it to point to your Wordpress directory and start the server using the MAMP app.
+2. [WP-CLI](http://wp-cli.org) – If you're using WP-CLI to manage Wordpress, you can use `wp server` to start a PHP server.
+3. The PHP development server – You can start a server directly with `php -S localhost:8080` if you're already able to run PHP on your computer.
 
-To create a category page, follow this template in the page's YAML front matter:
+### Set up a local MySQL database
 
-```
-layout: category
-category: agricultural
-```
+You'll also need a database to store Wordpress data. Again there are many ways to do this:
 
-The category page template will then automatically generate thumbnails of posts that share the page's category.
+1. [MAMP](https://www.mamp.info) – If you're using MAMP, you can use phpMyAdmin to set up the database and database user and then edit `wp-config.php` in your Wordpress directory to connect to it.
+2. [MySQL](https://dev.mysql.com/downloads/mysql/) - If you're not using MAMP, you can download MySQL directly and use the command line to create a database and a user and give the user permissions for the database.
 
-### Portfolio Page
+### Set up this theme
 
-Any post with `category: project` in its front matter will be included on the portfolio page.
+The last step is to download this theme into the `wp-content/themes` directory of your Wordpress directory. You can download the zip and unzip it there, or navigate there in the command line and use Git to clone it.
 
-### Featured Projects
+## Deploying
 
-To feature a project on the home page, add `featured: true` to the post's YAML front matter.
+When you're ready to get Wordpress running on a server for staging or production, here are some steps you can use to get started. There are many ways to deploy a Wordpress site, but this is a common workflow:
 
-## Components
+1. Coming soon...
 
-### Thumbnails
+## Contributing
 
-The thumbnails are consistent throughout the site, so the thumbnail markup has been separated into its own include at `_includes/thumbnail.html`.
+1. Fork it!
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to the branch on your fork.
+5. Submit a pull request!
 
-The thumbnail image is taken from the `image:` in each post's front matter.
+*New to Git or programming in general?* To contribute to this project, you'll need to know how to use the command line and Git. If you want to get up to speed on those, read about the [command line](http://kevinmcgillivray.net/introduction-to-text-editors-and-the-command-line/), and [try Git](http://try.github.io). Then install [Atom](http://atom.io) or another text editor. Then, read about [GitHub Flow](https://guides.github.com/introduction/flow/)
 
-### Icons
+## Credits
 
-There are three sets of icons available to the site. The main category icons (agricultural, commercial, equestrian, residential and storage) included using [Icomoon](http://icomoon.io). The social media icons are included using the [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) icons. The default Bootstrap icons are also available. All of the associated style and font files are in the `/css` and `/font` folders.
-
-## Deployment
-
-Deployment is handled through [git-ftp](https://github.com/git-ftp/git-ftp).
-
-1. Make the changes as normal to the Jekyll site and push them to this repository using `git push origin master`.
-2. Change into the `_site` folder, which holds the site that should be pushed to the server.
-3. There is a separate git repository in this folder. Run `git status` to see what has changed and commit the changes.
-4. Run `git ftp push -u <user> -p - foxstructures.com`. Replace `<user>` with the ftp username. Then enter the password in the prompt. It will upload the changed files to the server.
+Made by [Sandcastle](http://sandcastle.co).
