@@ -4,8 +4,60 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- TODO: Load favicon -->
+    <!-- TODO: Load page description -->
+    <!-- <link href="{{ site.baseurl }}/img/favicon.png" rel="shortcut icon"> -->
+    <meta name="description" content="{{ page.meta }}">
+
     <title><?php wp_title(' &ndash; ', true, 'right'); ?><?php bloginfo('name'); ?></title>
 
     <?php wp_head(); ?>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
   </head>
   <body>
+    <!-- TODO: Convert to Wordpress menu with bootstrap walker -->
+    <header>
+
+        <div class="navbar-wrapper">
+          <div class="container">
+            <nav class="navbar navbar-default" role="navigation">
+              <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/logo.jpg"></a>
+              </div>
+              <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                  <li {% if page.url contains "/about-us" %}class="active"{% endif %}><a href="{{ site.baseurl }}/about-us">About Us</a></li>
+                  <li class="dropdown" {% if page.url contains "/services" %}class="active"{% endif %}>
+                    <a href="{{ site.baseurl }}/services" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="{{ site.baseurl }}/services">Services Overview</a></li>
+                      <li class="divider"></li>
+                      <li><a href="{{ site.baseurl }}/commercial">Commercial</a></li>
+                      <li><a href="{{ site.baseurl }}/agricultural">Agricultural</a></li>
+                      <li><a href="{{ site.baseurl }}/equestrian">Equestrian</a></li>
+                      <li><a href="{{ site.baseurl }}/residential">Residential</a></li>
+                      <li><a href="{{ site.baseurl }}/storage">Storage</a></li>
+                    </ul>
+                  </li>
+                  <li {% if page.url contains "/portfolio" %}class="active"{% endif %}><a href="{{ site.baseurl }}/portfolio">Portfolio</a></li>
+                  <li {% if page.url contains "/careers" %}class="active"{% endif %}><a href="{{ site.baseurl }}/careers">Careers</a></li>
+                  <li {% if page.url contains "/contact" %}class="active"{% endif %}><a href="{{ site.baseurl }}/contact">Contact</a></li>
+                </ul>
+              </div><!-- /.navbar-collapse -->
+            </nav>
+          </div><!-- /.container -->
+        </div><!-- /.navbar-wrapper -->
+
+    </header>
