@@ -25,18 +25,6 @@
 
   <?php wp_footer(); ?>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
-
-  <!-- Widon't, removes widows in text -->
-  <script>
-  jQuery(function($) {
-    $('h1,h2,h3,li,p').each(function() {
-        $(this).html($(this).html().replace(/\s([^\s<]+)\s*$/,'&nbsp;$1'));
-    });
-  });
-  </script>
-
 
   </body>
 </html>
