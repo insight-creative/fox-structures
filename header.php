@@ -4,8 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- TODO: Load favicon -->
-    <!-- TODO: Load page description -->
     <!-- <link href="{{ site.baseurl }}/img/favicon.png" rel="shortcut icon"> -->
     <meta name="description" content="{{ page.meta }}">
 
@@ -21,7 +19,6 @@
     <![endif]-->
   </head>
   <body>
-    <!-- TODO: Convert to Wordpress menu with bootstrap walker -->
     <header>
 
         <div class="navbar-wrapper">
