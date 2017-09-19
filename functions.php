@@ -4,6 +4,7 @@ require_once('modules/styles.php');
 require_once('modules/utilities.php');
 require_once('modules/menus.php');
 require_once('modules/nav_walker.php');
+require_once('modules/wp-bootstrap-navwalker.php');
 
 // add_settings_field(
 // 	'myprefix_setting-id',

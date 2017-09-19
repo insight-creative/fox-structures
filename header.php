@@ -19,42 +19,4 @@
     <![endif]-->
   </head>
   <body>
-    <header>
-
-        <div class="navbar-wrapper">
-          <div class="container">
-            <nav class="navbar navbar-default" role="navigation">
-              <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
-                  <span class="sr-only">Toggle navigation</span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                  <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/"><img src="<?php get_image_uri('logo.jpg'); ?>"></a>
-              </div>
-              <div class="collapse navbar-collapse" id="navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                  <li {% if page.url contains "/about-us" %}class="active"{% endif %}><a href="{{ site.baseurl }}/about-us">About Us</a></li>
-                  <li class="dropdown" {% if page.url contains "/services" %}class="active"{% endif %}>
-                    <a href="{{ site.baseurl }}/services" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="{{ site.baseurl }}/services">Services Overview</a></li>
-                      <li class="divider"></li>
-                      <li><a href="{{ site.baseurl }}/commercial">Commercial</a></li>
-                      <li><a href="{{ site.baseurl }}/agricultural">Agricultural</a></li>
-                      <li><a href="{{ site.baseurl }}/equestrian">Equestrian</a></li>
-                      <li><a href="{{ site.baseurl }}/residential">Residential</a></li>
-                      <li><a href="{{ site.baseurl }}/storage">Storage</a></li>
-                    </ul>
-                  </li>
-                  <li {% if page.url contains "/portfolio" %}class="active"{% endif %}><a href="{{ site.baseurl }}/portfolio">Portfolio</a></li>
-                  <li {% if page.url contains "/careers" %}class="active"{% endif %}><a href="{{ site.baseurl }}/careers">Careers</a></li>
-                  <li {% if page.url contains "/contact" %}class="active"{% endif %}><a href="{{ site.baseurl }}/contact">Contact</a></li>
-                </ul>
-              </div><!-- /.navbar-collapse -->
-            </nav>
-          </div><!-- /.container -->
-        </div><!-- /.navbar-wrapper -->
-
-    </header>
+    <?php get_template_part('includes/navbar'); ?>
