@@ -8,10 +8,19 @@
 
   <div class="row">
     <div class="col-md-8 center-block">
-      <div class="post">
-        <h1><?php the_title(); ?></h1>
+      <?php the_content(); ?>
+      <?php
+    		query_posts( array(
+          'post_type' => 'fs_job_listing',
+          'order' => 'ASC',
+          'orderby' => 'date'
+        ) );
+    		if ( have_posts() ) : while ( have_posts() ) : the_post();
+    	?>
+        <hr>
+        <h3><?php the_title(); ?></h3>
         <?php the_content(); ?>
-      </div>
+    	<?php endwhile; endif; wp_reset_query(); ?>
     </div>
   </div>
 
