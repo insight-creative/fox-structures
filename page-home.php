@@ -4,10 +4,6 @@
 
 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-  <?php get_template_part('includes/header-image'); ?>
-
-  <?php the_content(); ?>
-
   <div class="carousel">
     <div id="carousel" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
@@ -58,9 +54,7 @@
   <div class="feature">
     <div class="row">
       <div class="col-md-9 center-block">
-        <p class="lead">Fox Structures is known throughout northeast Wisconsin as a premier design/build agricultural and commercial construction company. For over thirty years our design savvy, construction expertise and commitment to quality have been matched only by our high level of customer satisfaction. That’s why we are so proud that 80% of our business comes from satisfied repeat clients.</p>
-
-  <p class="lead">Browse some of the unique <a href="{{ site.baseurl }}/agricultural">agricultural</a> and <a href="{{ site.baseurl }}/commercial">commercial</a> construction projects we’ve built in the past. Then <a href="{{ site.baseurl }}/contact">contact us</a> and see why our building success starts with you!</p>
+        <div class="lead"><?php the_content(); ?></div>
       </div>
     </div>
     <div class="row">
@@ -83,16 +77,24 @@
       </div>
     </div>
     <div class="row thumbnail-grid">
-      {% for post in site.categories.projects %}
-        {% if post.featured %}
-          {% include thumbnail.html %}
-        {% endif %}
-      {% endfor %}
+      <?php
+        $catId = get_cat_ID('Featured');
+        $args = array(
+        	'category' => $catId,
+          'post_type' => 'fs_project'
+        );
+        $posts_array = get_posts( $args );
+        foreach ( $posts_array as $post ) {
+          setup_postdata( $post );
+          get_template_part('includes/thumbnail');
+        }
+        wp_reset_postdata();
+      ?>
     </div>
     <div class="row">
       <div class="feature-footer">
         <div class="col-md-12">
-          <a class="btn btn-primary" href="{{ site.baseurl }}/portfolio" role="button">View all projects</a>
+          <a class="btn btn-primary" href="/portfolio" role="button">View all projects</a>
         </div>
       </div>
     </div>
