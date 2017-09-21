@@ -17,12 +17,7 @@
   		query_posts( array( 'post_type' => 'fs_project' ) );
   		if ( have_posts() ) : while ( have_posts() ) : the_post();
   	?>
-      <div class="thumbnail">
-        <a href="<?php the_permalink() ?>"><img src="{{ site.baseurl }}/img/{{ post.image }}"></a>
-        <div class="caption">
-          <a class="caption-link" href="<?php the_permalink() ?>"><?php the_title(); ?></a>
-        </div>
-      </div>
+      <?php get_template_part('includes/thumbnail'); ?>
   	<?php endwhile; endif; wp_reset_query(); ?>
   </div>
 

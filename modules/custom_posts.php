@@ -13,9 +13,10 @@ function create_custom_posts() {
         'update_item' => __( 'Update Project' )
       ),
       'public' => true,
-      'has_archive' => false,
+      'has_archive' => true,
 			'menu_icon' => 'dashicons-admin-multisite',
       'rewrite' => array('slug' => 'projects'),
+      'taxonomies' => array( 'category' ),
       'supports' => array( 'title', 'editor', 'thumbnail' )
     )
   );
