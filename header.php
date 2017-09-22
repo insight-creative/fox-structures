@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?php get_image_uri('favicon.png'); ?>" rel="shortcut icon">
-    <meta name="description" content="{{ page.meta }}">
+    <meta name="description" content="Since 1982 Fox Structures has been a respected Fox River Valley and northeast Wisconsin design/build agricultural and commercial construction company.">
 
     <title><?php wp_title(' &ndash; ', true, 'right'); ?><?php bloginfo('name'); ?></title>
 
