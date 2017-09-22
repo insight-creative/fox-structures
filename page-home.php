@@ -122,16 +122,14 @@
       <h2>Contact Us</h2>
     </div>
     <div class="col-md-4">
-      <p>Phone: 800-236-1369</p>
-      <p>Local: 920-766-9305</p>
-      <p>2201 Eastline Road<br>
-      Kaukauna, WI 54130</p>
+      <?php get_template_part('includes/phone-block'); ?>
+      <?php get_template_part('includes/address-block'); ?>
       <p><a href="https://www.facebook.com/pages/Fox-Structures-Inc/307183589400968"><i class="fa fa-facebook-square"></i> Facebook</a></p>
       <p><a href="https://www.youtube.com/channel/UCC4K4vxLwVlXVLBDQObyM6A"><i class="fa fa-youtube-square"></i> YouTube</a></p>
       <p><a href="http://www.linkedin.com/company/fox-structures-inc-"><i class="fa fa-linkedin-square"></i> LinkedIn</a></p>
     </div>
     <div class="col-md-8">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2855.3972640178113!2d-88.254993!3d44.301783!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8803aeafeea6c15d%3A0x14c92b8c9918bf5!2sFox+Structures+Inc!5e0!3m2!1sen!2sus!4v1400528285752" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+      <?php get_template_part('includes/map'); ?>
     </div>
   </div>
 

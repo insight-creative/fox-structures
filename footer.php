@@ -14,7 +14,7 @@
               )
             );
           ?>
-          <p class="copyright">&copy; <?php bloginfo('name'); ?>, Inc. <?php echo date("Y"); ?> | Phone: 800-236-1369 | Local: 920-766-9305</p>
+          <p class="copyright">&copy; <?php bloginfo('name'); ?>, Inc. <?php echo date("Y"); ?> | Phone: <?php echo get_option('phone_1'); ?> | Local: <?php echo get_option('phone_2'); ?></p>
         </div>
       </div>
     </nav>
