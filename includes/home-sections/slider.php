@@ -4,7 +4,18 @@
       <div class="carousel-caption">
         <h1>Our Building Success Starts&nbsp;with You.</h1>
       </div>
-      <div class="item active">
+      <?php $attachments = new Attachments( 'attachments' ); /* pass the instance name */ ?>
+      <?php if( $attachments->exist() ) : ?>
+        <?php $count = 0; ?>
+        <?php while( $attachments->get() ) : ?>
+          <div class="item <?php if ($count == 0) echo 'active' ?>">
+            <img src="<?php echo $attachments->url(); ?>" alt="<?php echo $attachments->field( 'title' ); ?>">
+          </div>
+          <?php $count++; ?>
+        <?php endwhile; ?>
+      <?php endif; ?>
+
+      <!-- <div class="item active">
         <img src="{{ site.baseurl }}/img/milksource.jpg" alt="Milksource">
       </div>
       <div class="item">
@@ -18,7 +29,7 @@
       </div>
       <div class="item">
         <img src="{{ site.baseurl }}/img/badgerland-storage.jpg" alt="Badgerland Storage">
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
