@@ -14,7 +14,7 @@
 
   <div class="row thumbnail-grid">
     <?php
-  		query_posts( array( 'post_type' => 'fs_project' ) );
+  		query_posts( array( 'post_type' => 'fs_project', 'posts_per_page' => -1 ) );
   		if ( have_posts() ) : while ( have_posts() ) : the_post();
   	?>
       <?php get_template_part('includes/thumbnail'); ?>
