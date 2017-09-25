@@ -40,4 +40,4 @@ You'll need a local server that can run PHP. There are many ways to do this – 
 
 ## Deploying
 
-1. Coming soon...
+This theme can be deployed with [Git-ftp](https://github.com/git-ftp/git-ftp), otherwise the directory can be manually uploaded to the server with FTP.
