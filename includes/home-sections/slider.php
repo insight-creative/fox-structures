@@ -2,7 +2,7 @@
   <div id="carousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-caption">
-        <h1>Our Building Success Starts&nbsp;with You.</h1>
+        <h1><?php bloginfo('description'); ?></h1>
       </div>
       <?php $attachments = new Attachments( 'attachments' ); ?>
       <?php if( $attachments->exist() ) : ?>
