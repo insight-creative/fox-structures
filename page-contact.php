@@ -9,6 +9,7 @@
   <div class="row">
     <div class="col-md-8 center-block">
       <h1><?php the_title(); ?></h1>
+      <img src="http://www.foxstructures.com/wp-content/uploads/2018/12/Fox_GuyGroupMedium.jpg">
       <?php get_template_part('includes/phone-block'); ?>
       <?php get_template_part('includes/map'); ?>
       <?php get_template_part('includes/address-block'); ?>

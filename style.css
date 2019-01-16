@@ -19,7 +19,7 @@ Text Domain:        sandcastle
 8. Thumbnails
 9. Post
 10. Footer
-
+11. About Page
 /*
  * Global Styles
  */
@@ -35,8 +35,9 @@ body {
 	background-color: white;
 	border-radius: 3px;
 	margin-bottom: 40px;
-	border-top: 8px solid #F9CF3C;
-	border-bottom: 8px solid #F9CF3C;
+	border-top: 8px solid #12487E;
+	/*border-top: 8px solid #F9CF3C;*/
+	border-bottom: 8px solid #12487E;
 }
 img {
 	width: 100%;
@@ -46,7 +47,7 @@ img {
 	margin-left: -15px;
 	margin-right: -15px;
 	border-radius: 3px;
-	border-bottom: 8px solid #F9CF3C;
+	border-bottom: 8px solid #12487E;
 }
 .center-block {
 	float: none;
@@ -117,7 +118,7 @@ i.fa {
 .navbar {
 	position: relative;
 	z-index: 100;
-	background-color: #12487E;
+	background-color: #000000;
 	height: 120px;
 	border: 0px;
 	margin-bottom: 0;
@@ -125,9 +126,9 @@ i.fa {
 	margin-left: -15px;
 }
 .navbar-default .navbar-collapse {
-	background-color: #12487E;
+	background-color: #000000;
 	margin-top: 40px;
-	border-bottom: 4px solid #F9CF3C;
+	border-bottom: 4px solid #12487E;
 }
 @media (min-width: 768px) {
 	.navbar-default .navbar-collapse {
@@ -141,7 +142,8 @@ i.fa {
 	border-radius: 3px;
 }
 .navbar-default .navbar-nav > li > a:hover {
-	background-color: #F9CF3C;
+	background-color: #000000;
+	color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:focus {
 	color: white;
@@ -154,7 +156,7 @@ i.fa {
 	background-color: white;
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color: #12487E;
+	background-color: #000000;
 }
 li.dropdown.open {
 	background-color: white;
@@ -162,7 +164,10 @@ li.dropdown.open {
 .navbar-default .navbar-nav > .open {
 	border-radius: 3px;
 }
-
+.siteLogo{
+	width: 200px;
+	height: auto;
+}
 /*
  * Sub-nav
  */
@@ -171,7 +176,7 @@ li.dropdown.open {
 	margin-top: 15px;
 }
 .sub-nav .nav-pills > li > a {
-	background-color: #12487E;
+	background-color: #000000;
 	border: 2px solid white;
 	border-radius: 6px;
 	color: white;
@@ -198,7 +203,7 @@ li.dropdown.open {
  */
 
 #carousel {
-	border-bottom: 8px solid #F9CF3C;
+	border-bottom: 8px solid #12487E;
 	margin-right: -15px;
 	margin-left: -15px;
 	border-radius: 3px;
@@ -309,3 +314,13 @@ footer a {
 .copyright {
 	font-size: 1em;
 }
+/*
+ * 11. About Page
+ */
+
+ .imageWrap{
+	 text-align:center;
+ }
+ .leaderImage{
+	 width: 50%;
+ }

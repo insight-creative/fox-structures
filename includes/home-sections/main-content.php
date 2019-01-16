@@ -4,6 +4,7 @@
       <div class="lead"><?php the_content(); ?></div>
     </div>
   </div>
+  <!--
   <div class="row">
     <div class="feature-footer">
       <div class="col-md-12">
@@ -13,4 +14,5 @@
       </div>
     </div>
   </div>
+-->
 </div>

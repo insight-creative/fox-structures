@@ -26,6 +26,15 @@
 .icon {
 	font-size: 36px;
 }
+.SVGicon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+	font-size: 34px;
+  stroke-width: 0;
+  stroke: #ffffff;
+  fill: #ffffff;
+}
 .icon-horse {
 	font-size: 48px;
 	line-height: .55;
@@ -45,4 +54,7 @@
 }
 .icon-commercial:before {
 	content: "\e604";
+}
+.icon-power:before {
+  content: "\e9b5";
 }

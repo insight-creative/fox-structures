@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/"><img src="<?php get_image_uri('logo.jpg'); ?>"></a>
+          <a class="navbar-brand" href="/"><img src="http://www.foxstructures.com/wp-content/uploads/2019/01/FoxStructuresLogo-REV.png" class="siteLogo"></a>
         </div>
         <?php
           wp_nav_menu( array(

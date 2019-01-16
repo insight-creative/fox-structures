@@ -12,7 +12,7 @@
       <?php
     		query_posts( array(
           'post_type' => 'fs_job_listing',
-          'order' => 'ASC',
+          'order' => 'DSC',
           'orderby' => 'date'
         ) );
     		if ( have_posts() ) : while ( have_posts() ) : the_post();
